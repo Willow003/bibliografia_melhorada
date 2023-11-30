@@ -1,0 +1,30 @@
+
+body {
+    margin: 30px;
+    font-family: Arial, sans-serif;
+    font-size: large;
+}
+
+.slide-container {
+    width: 50%;
+    overflow: hidden;
+    padding: 5px;
+    margin-left: 2%;
+    margin-top: 5%;  
+}
+
+.slide {
+    display: none;
+}
+
+img {
+    width: 50%;
+    height: auto;
+}
+
+.conteudo{
+    text-align: justify;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
